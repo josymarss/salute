@@ -12,4 +12,4 @@ Health app in Angola.(Aplicativo de saúde em Angola)
 
 ## Uso 
 
-Tenha o Expo instalado na sua máquina.
+Tenha o Expo instalado na sua máquina, contruído com Javascript e o framework React.
