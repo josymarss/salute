@@ -18,12 +18,18 @@ Health app in Angola.(Aplicativo de saúde em Angola)
 
   * Tenha o Expo instalado na sua máquina.
   * Digite dentro da pasta do projecto:
+<<<<<<< HEAD
   
+=======
+>>>>>>> 29244a481598f05683633466636813ea1b9d018d
     ```
       yarn start ou npm start
 
     ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> 29244a481598f05683633466636813ea1b9d018d
 
 
 
